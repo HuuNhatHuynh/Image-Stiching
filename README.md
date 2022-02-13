@@ -1,1 +1,1 @@
-# Image-Stiching
+# Image Stiching - PANORAMA
